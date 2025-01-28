@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1738044472|1665754638";
+const CACHE_VERSION = "1738048632|5826234175";
 const CACHE_PREFIX = "A Typical Niuma'-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "A_Typical_Niumas_Day_v1.0.offline.html";
