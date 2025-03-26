@@ -3,6 +3,8 @@
 
 [game1]|A Typical Niuma's Day|Wendi Tina Sherry|For Niuma, it started as just another workday—until a cryptic text from his boss. Niuma Transported to the enchanting Bubble Kingdom, Niuma must navigate daring battles, outsmart mischievous foes, and rescue the Dragon Princess. Can he play his cards right and become the hero to the kingdom—and his boss—needs?|game1/opening_scene.jpg|game1/A_Typical_Niumas_Day_v1.0.html
 
-[game2]|Dragon Sweeper| GIT |Experience an exciting adventure in this unique game. Navigate through challenges and discover what awaits you in this mysterious world.|game2/data/cover.jpg|game2/dragonsweeper.html
+[game2]|Dragon Sweeper|GIT|Experience an exciting adventure in this unique game. Navigate through challenges and discover what awaits you in this mysterious world.|game2/data/cover.jpg|game2/dragonsweeper.html
 
-[game3]|2048| GIT | A small clone of 1024, based on Saming's 2048 (also a clone). 2048 was indirectly inspired by Threes. |game3/cover.jpg|game3/index.html 
+[game3]|2048|GIT|A small clone of 1024, based on Saming's 2048 (also a clone). 2048 was indirectly inspired by Threes.|game3/cover.jpg|game3/index.html
+
+[game4]|Slap Game|Wendi Tina Sherry|A fun and interactive game where you can slap characters. Test your reflexes and timing in this entertaining experience.|game4/cover.png|game4/index.html 
